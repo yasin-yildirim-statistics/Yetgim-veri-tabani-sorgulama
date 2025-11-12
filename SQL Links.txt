@@ -1,0 +1,10 @@
+Codeshare:
+https://codeshare.io/veri-tabani
+https://codeshare.io/veri-tabani-2
+https://codeshare.io/veri-tabani-3
+
+Drawql:
+https://drawsql.app/teams/asd-623/diagrams/spor-db
+
+Github:
+https://github.com/yasin-yildirim-statistics/Yetgim-veri-tabani-sorgulama
