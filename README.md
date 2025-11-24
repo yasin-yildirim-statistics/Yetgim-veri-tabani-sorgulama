@@ -2,5 +2,5 @@
 
 
 
-!\[Static Badge](https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql\&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
